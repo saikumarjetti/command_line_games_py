@@ -3,7 +3,7 @@ Its a advanced rock-paper-scissors game with over fiften moves its also called a
 
 if you don't know visit this link : https://www.umop.com/rps15.htm
 
-#If lazy to copy and past then this is a cheat sheet..
+# If lazy to copy and past then this is a cheat sheet..
 
 ROCK POUNDS OUT FIRE, CRUSHES SCISSORS, SNAKE, HUMAN, WOLF, SPONGE, BLOCKS (GROWTH OF) TREE.
 
