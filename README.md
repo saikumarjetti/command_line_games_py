@@ -1,5 +1,5 @@
 # command_line_games_py
-Its a advanced rock-paper-scissors game with over fiften moves its also called as rps-15.
+Its a advanced rock-paper-scissors game with over fiften moves its also called as # rps-15.
 
 if you don't know visit this link : https://www.umop.com/rps15.htm
 
